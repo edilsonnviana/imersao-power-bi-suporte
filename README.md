@@ -8,7 +8,7 @@ Abaixo está o resultado visual do painel gerencial de suporte (*Connect Ticket*
 ## 🛠️ Estrutura do Curso
 
 * **Aula 01:** Introdução ao Power Query, tratamento e limpeza da base de dados de chamados de TI.
-🎥 [Assistir à Videoaula da Aula 01](https://youtu.be/rneYRwKTQdE)
+🎥 [Assistir à Videoaula da Aula 01](https://youtu.be/5RSiU7eUnow)
 * **Aula 02:** Criação de Medidas DAX fundamentais (Total de Chamados, Chamados Atrasados e Taxa de Atraso).
 * * 🎥 [Assistir à Videoaula da Aula 02]([https://www.youtube.com/watch?v=SEU_LINK_DO_VIDEO)](https://youtu.be/IxVkFSoSKRA)
 * **Aula 03:** Construção da Página 1 do Dashboard (Visão Geral, Cartões de KPIs, Gráfico de Linhas e Gráficos de Prioridade).
